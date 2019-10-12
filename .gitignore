@@ -1,0 +1,4 @@
+sh/tsh
+*.o
+*.out
+core
